@@ -1,2 +1,1 @@
-Data obtained from [https://open.toronto.ca/dataset/ttc-bus-delay-data/] (ttc website)
-
+Data obtained from [https://open.toronto.ca/dataset/] (https://open.toronto.ca/dataset/)
